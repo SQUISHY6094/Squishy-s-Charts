@@ -1,0 +1,34 @@
+{
+	"character_Positions": [
+		[
+			1000,
+			800
+		],
+		[
+			300,
+			800
+		],
+		[
+			600,
+			750
+		]
+	],
+	"objects": [
+		{
+			"is_Animated": false,
+			"position": [
+				-160,
+				-90
+			],
+			"scroll_Factor": [
+				0,
+				0
+			],
+			"antialiased": true,
+			"scale": 1.40,
+			"file_Name": "AdhesiveArt",
+			"alpha": 1
+		}
+	],
+	"camera_Zoom": 0.8
+}
